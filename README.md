@@ -1,100 +1,95 @@
-# ![WeAreRetex](./assets/logo-retex.png)
+<div align="center">
 
-# WeAreRetex  
+# 🌐 WeAreRetex  
 
-*Building the next generation of Retail Experience.*  
+![Logo](./assets/logo-retex.png)  
 
-🌐 [Website](https://www.retex.com) • 💼 [LinkedIn](https://www.linkedin.com/company/retex-s-p-a-/) • 📧 [Contact](mailto:info@retex.com)
+**Building the next generation of Retail Experience.**  
 
----
-
-## 💡 About Us  
-
-**Retex** is a **Benefit Corporation** and one of Europe’s leading **MarTech companies**.  
-We connect brands, people, and technologies, guiding them towards a new meaning of **Retail**.  
-
-With **600+ professionals from 32 nationalities**, we combine:  
-- 🚀 Technology & Innovation  
-- 🎨 Creativity & Design  
-- 📊 Data & Performance  
-- 📢 Marketing & Communication  
-- 🌱 ESG & Sustainability  
+[![Website](https://img.shields.io/badge/🌍-Website-1F4E79?style=for-the-badge)](https://www.retex.com)
+[![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/retex-s-p-a-/)
+[![Contact](https://img.shields.io/badge/📧-Contact-FF7F50?style=for-the-badge)](mailto:info@retex.com)
 
 ---
 
-## 🌟 Our Values  
+</div>
 
-- **Human Touch** 🤝 — empathy, collaboration, mentoring  
-- **Impact** 🌍 — data-driven innovation and ESG commitment  
-- **Vision & Foresight** 🔮 — simplicity, adaptability, continuous growth  
+## 🚀 Who We Are  
 
----
+We’re not just a company.  
+We’re **600+ innovators from 32 countries** redefining how brands and people connect.  
 
-## 🛠️ Tech Stack  
-
-- TypeScript • JavaScript  
-- Vue.js • Nuxt • React • Next.js  
-- TailwindCSS • Node.js • GraphQL  
-- WordPress • Jupyter  
-
-We build **scalable solutions** using modern frameworks, **cloud-native architectures**, and **enterprise-grade integrations**.  
+🔹 **Tech & Innovation**  
+🔹 **Creativity & Design**  
+🔹 **Data & Performance**  
+🔹 **Marketing & Communication**  
+🔹 **ESG & Sustainability**  
 
 ---
 
-## 🏆 Awards & Recognitions  
+## 🌟 Our Core Values  
 
-- **Benefit Corporation** since 2022  
-- Member of the **UN Global Compact**  
-- **EcoVadis Silver Medal** for sustainability  
-- **SBTi-approved climate targets** (2030 & 2050)  
-
----
-
-## 🚀 What We Do  
-
-- Tech & Digital Transformation  
-- Marketing & Integrated Communication  
-- Business Performance & Analytics  
-- Service Operations  
-- ESG & Sustainability Advisory  
+✨ **Human Touch** — empathy, collaboration, mentoring  
+🌍 **Impact** — ESG-driven, data-based, lean innovation  
+🔮 **Vision & Foresight** — simplification, adaptability, growth mindset  
 
 ---
 
-## 🤝 Clients & Projects  
+## 🛠️ Tech Playground  
 
-We proudly partner with **2000+ global clients** in retail, fashion, food & beverage, pharma, and finance.  
+![Tech Stack](https://skillicons.dev/icons?i=ts,js,vue,nuxt,react,next,tailwind,nodejs,graphql,wordpress,jupyter)
 
-**Selected brands**:  
-Unicredit • Aperol • Armani • AstraZeneca • Barilla • Carrefour • Coop • CRAI • Illy • Eataly • Ferragamo • Flos • Lavazza • LG • Poliform • Saint Laurent • Starbucks • Temakinho • Novartis • Kering • Intesa Sanpaolo • Alfasigma  
+We engineer **scalable, cloud-native, enterprise-grade solutions** that power global brands.  
 
 ---
 
-## 👥 Team & Culture  
+## 🏆 Recognitions  
 
-A **global and inclusive community** of developers, designers, strategists, and marketers.  
-We foster growth and well-being through:  
+- 🌱 **Benefit Corporation** since 2022  
+- 🤝 **UN Global Compact** member  
+- 🥈 **EcoVadis Silver Medal**  
+- 🌍 **SBTi-approved targets** (2030 & 2050)  
+
+---
+
+## 💼 Trusted By  
+
+We proudly partner with **2000+ global clients** across retail, fashion, food & beverage, pharma, and finance.  
+
+Some names you might know:  
+**Unicredit • Aperol • Armani • Barilla • Carrefour • Coop • Illy • Eataly • Ferragamo • Flos • Lavazza • LG • Saint Laurent • Starbucks • Novartis • Kering • Intesa Sanpaolo**  
+
+---
+
+## 👥 Culture That Matters  
+
+We believe in **people-first growth**:  
 
 - ✨ Buddy Program  
 - 📚 Learn & Grow Academy  
-- 🌍 Social & ESG initiatives  
+- 🌍 ESG & social initiatives  
+
+Because innovation starts with **humans, not code**.  
 
 ---
 
-## 📊 Activity & Vision  
+## 📊 Our Impact  
 
-While our repositories are private, our impact is visible through the solutions we deliver:  
-
-- 🔧 Enterprise-grade platforms  
-- 🛒 Omnichannel retail & e-commerce innovation  
-- 📈 Data-driven decision making  
-- 🌱 Sustainable digital ecosystems  
+- 🔧 Building enterprise-grade platforms  
+- 🛒 Driving omnichannel retail & e-commerce innovation  
+- 📈 Enabling data-driven decisions  
+- 🌱 Creating sustainable digital ecosystems  
 
 ---
 
-## 📩 Contact  
+<div align="center">
 
-🌐 [Website](https://www.retex.com) • 💼 [LinkedIn](https://www.linkedin.com/company/retex-s-p-a-/) • 📧 info@retex.com  
+## 📩 Let’s Connect  
+
+[🌐 Website](https://www.retex.com) • [💼 LinkedIn](https://www.linkedin.com/company/retex-s-p-a-/) • [📧 info@retex.com](mailto:info@retex.com)  
 
 ---
 
-*“Redefining the meaning of Retail.”*  
+✨ *“Redefining the meaning of Retail.”* ✨  
+
+</div>
