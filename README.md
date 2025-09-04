@@ -1,5 +1,3 @@
-# .github
-
 <p align="center">
   <img src="./assets/logo-retex.png" alt="WeAreRetex" width="200"/>
 </p>
@@ -7,7 +5,7 @@
 <h1 align="center">WeAreRetex</h1>
 
 <p align="center">
-  <em>Building the new generation of Retail Experience.</em>
+  <em>Building the next generation of Retail Experience.</em>
 </p>
 
 <p align="center">
@@ -21,10 +19,10 @@
 ## 💡 About Us
 
 **Retex** is a **Benefit Corporation** and one of Europe’s leading **MarTech companies**.  
-We connect brands and stakeholders, guiding them through the transition to a new meaning of Retail.
+We connect brands, people, and technologies, guiding them towards a new meaning of **Retail**.
 
-With **600+ professionals from 32 nationalities**, we combine:  
-🚀 **Technology & Innovation** • 🎨 **Creativity & Design** • 📊 **Data Insight & Performance** • 📢 **Marketing & Communication** • 🌱 **ESG & Sustainability**
+With a team of **600+ professionals across 32 nationalities**, we combine:  
+🚀 **Technology & Innovation** • 🎨 **Creativity & Design** • 📊 **Data & Performance** • 📢 **Marketing & Communication** • 🌱 **ESG & Sustainability**
 
 ---
 
@@ -36,9 +34,9 @@ With **600+ professionals from 32 nationalities**, we combine:
   <img src="https://img.shields.io/badge/Vision%20%26%20Foresight-00BFA6?style=for-the-badge&logo=lightbulb&logoColor=white"/>
 </p>
 
-- **Human Touch** 🤝 — teamwork, mentoring, and empathetic listening
-- **Impact** 🌍 — ESG-driven, data-based, lean innovation
-- **Vision & Foresight** 🔮 — simplification, adaptability, and continuous growth
+- **Human Touch** 🤝 — empathy, collaboration, mentoring  
+- **Impact** 🌍 — data-driven innovation and ESG commitment  
+- **Vision & Foresight** 🔮 — simplicity, adaptability, continuous growth  
 
 ---
 
@@ -58,7 +56,7 @@ With **600+ professionals from 32 nationalities**, we combine:
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
-We design scalable solutions leveraging **modern frameworks, cloud-native architectures, and enterprise integrations**.
+We build **scalable solutions** based on modern frameworks, **cloud-native architectures**, and **enterprise-grade integrations**.
 
 ---
 
@@ -71,54 +69,52 @@ We design scalable solutions leveraging **modern frameworks, cloud-native archit
   <img src="https://img.shields.io/badge/SBTi-Climate%20Targets-FF7F50?style=for-the-badge&logo=climate&logoColor=white"/>
 </p>
 
-- **Benefit Corporation** since 2022
-- Member of the **UN Global Compact**
-- **EcoVadis Silver Medal** for sustainability
-- **SBTi-approved targets** for 2030 & 2050
+- **Benefit Corporation** since 2022  
+- Member of the **UN Global Compact**  
+- **EcoVadis Silver Medal** for sustainability  
+- **SBTi-approved climate targets** (2030 & 2050)  
 
 ---
 
 ## 🚀 What We Do
 
-- **Tech & Digital Transformation**
-- **Marketing & Integrated Communication**
-- **Business Performance & Analytics**
-- **Service Operations**
-- **ESG Advisory & Sustainability**
+- **Tech & Digital Transformation**  
+- **Marketing & Integrated Communication**  
+- **Business Performance & Analytics**  
+- **Service Operations**  
+- **ESG & Sustainability Advisory**  
 
 ---
 
 ## 🤝 Clients & Projects
 
-We proudly partner with **2000+ global clients** in retail, fashion, food & beverage, pharma and finance.
+We proudly partner with **2000+ global clients** in retail, fashion, food & beverage, pharma, and finance.
 
 <p align="center">
   <img src="./assets/clients.png" alt="WeAreRetex Clients" width="850"/>
 </p>
 
 **Selected brands**:  
-Unicredit • Aperol • Armani • AstraZeneca • Barilla • Carrefour • Coop • CRAI • Illy • Eataly • Ferragamo • Flos • Lavazza • LG • Poliform • Saint Laurent • Starbucks • Temakinho • Novartis • Kering • Intesa Sanpaolo • Alfasigma
+Unicredit • Aperol • Armani • AstraZeneca • Barilla • Carrefour • Coop • CRAI • Illy • Eataly • Ferragamo • Flos • Lavazza • LG • Poliform • Saint Laurent • Starbucks • Temakinho • Novartis • Kering • Intesa Sanpaolo • Alfasigma  
 
 ---
 
-## 👥 Our Team & Culture
+## 👥 Team & Culture
 
 A **global and inclusive community** of developers, designers, strategists, and marketers.  
 We foster growth and well-being through:  
-✨ **Buddy Program**  
-📚 **Learn & Grow Academy**  
-🌍 **Social & ESG initiatives**
+✨ **Buddy Program** • 📚 **Learn & Grow Academy** • 🌍 **Social & ESG initiatives**
 
 ---
 
 ## 📊 Activity & Vision
 
-While our repositories are private, our commitment is visible through the impact we deliver:
+While our repositories are private, our impact is visible through the solutions we deliver:  
 
-- 🔧 Building **enterprise-grade platforms**
-- 🛒 Driving **omnichannel retail & e-commerce innovation**
-- 📈 Enabling **data-driven decisions**
-- 🌱 Creating **sustainable digital ecosystems**
+- 🔧 **Enterprise-grade platforms**  
+- 🛒 **Omnichannel retail & e-commerce innovation**  
+- 📈 **Data-driven decision making**  
+- 🌱 **Sustainable digital ecosystems**  
 
 ---
 
