@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌐 WeAreRetex  
+![header](https://capsule-render.vercel.app/api?type=waving&color=1F4E79&height=200&section=header&text=WeAreRetex%20🌐&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
 
 ![Logo](./assets/logo-retex.png)  
 
@@ -83,6 +83,8 @@ Because innovation starts with **humans, not code**.
 ---
 
 <div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=1F4E79&height=120&section=footer)
 
 ## 📩 Let’s Connect  
 
