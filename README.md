@@ -38,7 +38,24 @@ We’re **600+ innovators from 32 countries** redefining how brands and people c
 ## 🌟 Our Core Values
 - ✨ **Human Touch** — empathy, collaboration, mentoring  
 - 🌍 **Impact** — ESG-driven, data-based, lean innovation  
-- 🔮 **Vision & Foresight** — simplification, adaptability, growth mindset
+- 🔮 **Vision & Foresight** — simplification, adaptability, growth mindset  
+
+---
+
+## 👥 Our Teams
+
+We grow through collaboration across practices and industries:  
+
+![P-Atoms](https://img.shields.io/badge/P--Atoms-Luxury%20Tech-blue?style=for-the-badge)  
+![P-Witailer](https://img.shields.io/badge/P--Witailer-Marketplace%20%26%20AI-purple?style=for-the-badge)  
+![P-Connexia](https://img.shields.io/badge/P--Connexia-Creativity%20%26%20Design-pink?style=for-the-badge)  
+![P-Venistar](https://img.shields.io/badge/P--Venistar-Fashion%20Tech-green?style=for-the-badge)  
+![P-Cosmic](https://img.shields.io/badge/P--Cosmic-Omnichannel%20Innovation-orange?style=for-the-badge)  
+![T-DevOps](https://img.shields.io/badge/T--DevOps-Infrastructure%20%26%20Automation-9cf?style=for-the-badge)  
+![T-Platform](https://img.shields.io/badge/T--Platform-Scalable%20Solutions-lightgrey?style=for-the-badge)  
+![T-Website](https://img.shields.io/badge/T--Website-Digital%20Experience-red?style=for-the-badge)  
+
+✨ *...and many more shaping the future of retail.*  
 
 ---
 
@@ -83,7 +100,7 @@ Because innovation starts with **humans, not code**.
 
 <div align="center">
 
-<!-- FOOTER (perfetto come da tuo esempio) -->
+<!-- FOOTER -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,4,6,8&section=footer)
 
 **Let’s Connect**  
