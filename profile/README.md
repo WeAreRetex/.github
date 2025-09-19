@@ -1,28 +1,27 @@
-<div align="center">
-
 <!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=0,2,4,6,8&section=header&text=WeAreRetex%20🌐&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Redefining%20the%20meaning%20of%20Retail.&descAlignY=55&descAlign=50" alt="header" width="100%" />
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=0,2,4,6,8&section=header&text=WeAreRetex%20🌐&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Redefining%20the%20meaning%20of%20Retail.&descAlignY=55&descAlign=50)
+<!-- LOGO + CLAIM + BADGES -->
+<div align="center">
+  <img src="../assets/logo-retex.png" alt="Retex Logo" width="140" />
 
-<!-- LOGO -->
-<img src="../assets/logo-retex.png" alt="Retex Logo" width="140" />
+  **Building the next generation of Retail Experience.**
 
-**Building the next generation of Retail Experience.**
+  <br/>
 
-<!-- BADGES (brand colors) -->
-<a href="https://www.retex.com">
-  <img alt="Website" src="https://img.shields.io/badge/🌍-Website-2A7B9B?style=for-the-badge">
-</a>
-<a href="https://www.linkedin.com/company/retex-s-p-a-/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/💼-LinkedIn-53AAED?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:info@retex.com">
-  <img alt="Contact" src="https://img.shields.io/badge/📧-Contact-C75780?style=for-the-badge">
-</a>
+  <!-- BADGES -->
+  <a href="https://www.retex.com">
+    <img alt="Website" src="https://img.shields.io/badge/🌍-Website-2A7B9B?style=for-the-badge">
+  </a>
+  <a href="https://www.linkedin.com/company/retex-s-p-a-/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/💼-LinkedIn-53AAED?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:info@retex.com">
+    <img alt="Contact" src="https://img.shields.io/badge/📧-Contact-C75780?style=for-the-badge">
+  </a>
+</div>
 
 ---
-
-</div>
 
 ## 🚀 Who We Are
 
@@ -117,8 +116,9 @@ Because innovation starts with **humans, not code**.
 
 
 <!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,4,6,8&section=footer" alt="footer" width="100%" />
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,4,6,8&section=footer)
+<div align="center">
 
 **Let’s Connect**  
 [🌐 Website](https://www.retex.com) • [💼 LinkedIn](https://www.linkedin.com/company/retex-s-p-a-/) • [📧 info@retex.com](mailto:info@retex.com)
@@ -126,5 +126,7 @@ Because innovation starts with **humans, not code**.
 ---
 
 ✨ _“Redefining the meaning of Retail.”_ ✨
+
+</div>
 
 </div>
