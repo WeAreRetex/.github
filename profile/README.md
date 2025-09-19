@@ -88,8 +88,33 @@ Because innovation starts with **humans, not code**.
 - 🌱 Creating sustainable digital ecosystems
 
 ---
+<!-- BEGIN YOUTUBE-CARDS -->
+## 🎬 Video Highlights
+
+<div>
+
+<a href="https://www.youtube.com/watch?v=Mi-6xeQn-mI" target="_blank">
+  <img src="https://ytcards.demolab.com/?id=Mi-6xeQn-mI&lang=it" alt="YouTube video card" />
+</a>
+
+<a href="https://www.youtube.com/watch?v=6tLdqNzRUvE&t=4s" target="_blank">
+  <img src="https://ytcards.demolab.com/?id=6tLdqNzRUvE&lang=it" alt="YouTube video card" />
+</a>
+
+<a href="https://www.youtube.com/watch?v=GuAqR9qwYjw&list=PL4g9d_pdvFEdHQvzk9y1sY5nl4Dk0aUnG" target="_blank">
+  <img src="https://ytcards.demolab.com/?id=GuAqR9qwYjw&lang=it" alt="YouTube video card" />
+</a>
+
+<a href="https://www.youtube.com/watch?v=YqtetnuU4sc&list=PL4g9d_pdvFEdHQvzk9y1sY5nl4Dk0aUnG&index=2" target="_blank">
+  <img src="https://ytcards.demolab.com/?id=YqtetnuU4sc&lang=it" alt="YouTube video card" />
+</a>
+
+</div>
+<!-- END YOUTUBE-CARDS -->
+
 
 <div align="center">
+
 
 <!-- FOOTER -->
 
